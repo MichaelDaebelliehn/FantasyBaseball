@@ -85,4 +85,3 @@ def compare_teams():
 
 
 compare_teams()
-compare_teams()
